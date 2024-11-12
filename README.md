@@ -1,0 +1,2 @@
+# Termux-app
+Ertan bilgeç
